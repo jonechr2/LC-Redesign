@@ -4,12 +4,13 @@
   Comment="MadCap HTML5 Target"
   Type="WebHelp2"
   Destinations=""
-  ShowMadCapBacklink="true"
+  ShowMadCapBacklink="false"
   GlossaryTermConversion="marked"
-  DefaultUrl="/Content/Resources/learningcenter.html">
+  DefaultUrl="/Content/Resources/Home.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
-    GenerateGlossaryProxy="true" />
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
 </CatapultTarget>

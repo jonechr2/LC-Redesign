@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlossary>
-	<GlossaryEntry glossTerm="Glossary.Term0">
-		<Terms>
-			<Term>My Term</Term>
-		</Terms>
-		<Definition>My definition</Definition>
-	</GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Tiers</Term>
+    </Terms>
+    <Definition
+      Link="">So many tiers</Definition>
+  </GlossaryEntry>
 </CatapultGlossary>
