@@ -10,4 +10,21 @@
     <Definition
       Link="">So many tiers</Definition>
   </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Job</Term>
+    </Terms>
+    <Definition
+      Link="">The site for hired work</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2">
+    <Terms>
+      <Term>MyTerm</Term>
+    </Terms>
+    <Definition></Definition>
+  </GlossaryEntry>
 </CatapultGlossary>
