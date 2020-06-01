@@ -3,23 +3,8 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" /><title>Learning Center Mock-Up</title>
-        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
-        <link rel="stylesheet" href="/resources/demos/style.css" />
-        <script src="https://code.jquery.com/jquery-1.12.4.js">
-        </script>
-        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js">
-        </script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-        <script>
-/*<![CDATA[*/
-
- $( function() {
- $( "#tabs" ).tabs();
- $( "#accordion" ).accordion({active:false, collapsible: true});
- } );
- 
-/*]]>*/
-</script>
+        
     </head>
     <body>
         <header>
@@ -53,7 +38,7 @@
                 </table>
             </div>
             <div id="tabs">
-                <ul>
+                <ul role="tablist">
                     <li class="tabButton"><a href="#tabs-1">WinTeam</a>
                     </li>
                     <li class="tabButton"><a href="#tabs-2">eHub</a>
@@ -67,7 +52,7 @@
                 </ul>
                 <div id="tabs-1">
                     <div id="accordion">
-                        <h3>Accounts Payable</h3>
+                        <p>Accounts Payable</p>
                         <div>
                             <ul class="topics">
                                 <li><b>Vendors</b>
@@ -348,5 +333,9 @@
                 </div>
             </div>
         </div>
+        <script type="text/javascript" src="Scripts/jquery-ui-1.12.1/jquery-ui.min.js">
+        </script>
+        <script type="text/javascript" src="Scripts/accordion.js">
+        </script>
     </body>
 </html>
