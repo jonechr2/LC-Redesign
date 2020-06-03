@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Reference">
+    <TocEntry
+      Title="Web References "
+      StartSection="false">
+      <TocEntry
+        Title="Frequently Asked Questions"
+        Link="/Content/Documentation/lighthouse/Web/Reference/FAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/lighthouse/Integration/Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Release Notes 2020"
+        Link="/Content/Documentation/Release-Notes/Lighthouse-Release-Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Troubleshooting FAQ"
+        Link="/Content/Documentation/lighthouse/Web/Reference/Trouble-Shooting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Mobile References">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/lighthouse/Mobile/Reference/Mobile-Checking-Version.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Frequently Asked Questions"
+        Link="/Content/Documentation/lighthouse/Mobile/Reference/Lighthouse-Mobile-FAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Getting Started with the Mobile App"
+        Link="/Content/Documentation/lighthouse/Mobile/Reference/Get-Started-Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/lighthouse/Mobile/Reference/Mobile-Tips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Ofline Mode in Mobile"
+        Link="/Content/Documentation/lighthouse/Mobile/Reference/Moblie-Offline-Mode.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Release Notes 2020"
+        Link="/Content/Documentation/Release-Notes/Lighthouse-Release-Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

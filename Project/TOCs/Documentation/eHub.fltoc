@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="eHub Action Items">
+    <TocEntry
+      Title="Action Items Overview"
+      Link="/Content/Documentation/eHub/Web/Overview/Action-Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Adding Images to an Action Item"
+      Link="/Content/Documentation/eHub/Web/Tasks/Adding-Images-to-an-Action-Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Changing the Status of an Action Item"
+      Link="/Content/Documentation/eHub/Web/Tasks/Changing-the-Status-of-an-Action-Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Creating an Action Item"
+      Link="/Content/Documentation/eHub/Web/Tasks/Creating-an-Action-Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Checkpoints">
+    <TocEntry
+      Title="Adding an Image to Checkpoints"
+      Link="/Content/Documentation/eHub/Web/Tasks/Adding-Images-to-Checkpoints.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Changing Information on Checkpoints"
+      Link="/Content/Documentation/eHub/Web/Tasks/Changing-Information-on-Checkpoints.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Checkpoints Overview"
+      Link="/Content/Documentation/eHub/Web/Overview/Checkpoints.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Completing Checkpoints"
+      Link="/Content/Documentation/eHub/Web/Tasks/Completing-Checkpoints.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Creating a Checkpoint"
+      Link="/Content/Documentation/eHub/Web/Tasks/Creating-a-Checkpoint.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deleting a Checkpoint"
+      Link="/Content/Documentation/eHub/Web/Tasks/Deleting-a-Checkpoint.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Checkpoint Deficiencies"
+      Link="/Content/Documentation/eHub/Web/Overview/Checkpoint-Deficiencies.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Understanding Checkpoint Security and Permissions"
+      Link="/Content/Documentation/eHub/Web/References/Checkpoint-Security-and-Permissions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub CSS">
+    <TocEntry
+      Title="Customer Self Service (CSS)"
+      Link="/Content/Documentation/eHub/Web/Overview/Customer-Self-Service-Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Logging In - CSS"
+      Link="/Content/Documentation/eHub/Web/Tasks/Logging-In-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting Up Invoices for eHub - CSS"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-Invoices-for-eHub-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Scheduling - CSS"
+      Link="/Content/Documentation/eHub/Web/Overview/Work-Scheduling-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Employee-Requests">
+    <TocEntry
+      Title="Employee Requests"
+      Link="/Content/Documentation/eHub/Web/Overview/Employee-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Taking Action on Employee Requests"
+      Link="/Content/Documentation/eHub/Web/Tasks/Taking-Action-on-Employee-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Information Change Requests"
+      Link="/Content/Documentation/eHub/Web/Overview/Employee-Information-Change-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub ESS">
+    <TocEntry
+      Title="eHub Employees (ESS)"
+      Link="/Content/Documentation/eHub/Web/Overview/Employee-Self-Service-Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="eHub Supervisors (ESS)"
+      Link="/Content/Documentation/eHub/Web/Overview/Employee-Self-Service-Supervisor-Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub General">
+    <TocEntry
+      Title="Branding"
+      Link="/Content/Documentation/eHub/Web/Overview/Branding.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Content"
+      Link="/Content/Documentation/eHub/Web/Overview/Content.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Resources"
+      Link="/Content/Documentation/eHub/Web/References/Employee-Resources.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installation Guide"
+      Link="/Content/Documentation/eHub/Web/References/Installation-Guide.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Insurance Benefits and Online Enrollment"
+      Link="/Content/Documentation/eHub/Web/Overview/Insurance-Benefits-and-Online-Enrollment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Terminating or Inactivating an Employee"
+      Link="/Content/Documentation/eHub/Web/Tasks/Terminating-or-Inactivating-an-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Supervisor Review"
+      Link="/Content/Documentation/eHub/Web/Overview/Supervisor-Review.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Time Off Records"
+      Link="/Content/Documentation/eHub/Web/Overview/Time-Off-Records.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Hourly-Benefits">
+    <TocEntry
+      Title="Hourly Benefits - Employee"
+      Link="/Content/Documentation/eHub/Web/Overview/Hourly-Benefits-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hourly Benefits - Supervisor"
+      Link="/Content/Documentation/eHub/Web/Overview/Hourly-Benefits-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Invoices">
+    <TocEntry
+      Title="Invoices - CSS"
+      Link="/Content/Documentation/eHub/Web/Overview/Invoices-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting Up Invoices for eHub (CSS)"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-Invoices-for-eHub-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoices - Supervisors"
+      Link="/Content/Documentation/eHub/Web/Overview/Invoices-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Job/Employee Profiles">
+    <TocEntry
+      Title="Employee Profile"
+      Link="/Content/Documentation/eHub/Web/Overview/Employee-Profile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Job Profile"
+      Link="/Content/Documentation/eHub/Web/Overview/Job-Profiles.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="Using Employee Profile Information"
+      Link="/Content/Documentation/eHub/Web/Overview/Using-Employee-Profile-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Landing Pages">
+    <TocEntry
+      Title="Employee Landing Page (ESS - Supervisor)"
+      Link="/Content/Documentation/eHub/Web/Overview/Employee-Page-ESS-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Job Landing Page (ESS - Employee)"
+      Link="/Content/Documentation/eHub/Web/Overview/Job-Page-ESS-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Job Landing Page (ESS - Supervisor)"
+      Link="/Content/Documentation/eHub/Web/Overview/Job-Page-ESS-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Job Landing Page (CSS)"
+      Link="/Content/Documentation/eHub/Web/Overview/Job-Landing-Page-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Main Landing Page (ESS - Supervisor)"
+      Link="/Content/Documentation/eHub/Web/Overview/Main-Page-ESS-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Main Landing Page (CSS)"
+      Link="/Content/Documentation/eHub/Web/Overview/Main-Page-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="My eHub LAnding Page (ESS - Employee)"
+      Link="/Content/Documentation/eHub/Web/Overview/My-eHub-Page-ESS-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="My Landing Page (ESS - Supervisor)"
+      Link="/Content/Documentation/eHub/Web/Overview/My-eHub-Page-ESS-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Logging-In">
+    <TocEntry
+      Title="Changing a Password"
+      Link="/Content/Documentation/eHub/Web/Tasks/Changing-a-Password.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="CSS - Forgot Password"
+      Link="/Content/Documentation/eHub/Web/Tasks/Forgot-Password-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Forgot Password - ESS"
+      Link="/Content/Documentation/eHub/Web/Tasks/Forgot-Password-ESS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Logging In - CSS"
+      Link="/Content/Documentation/eHub/Web/Tasks/Logging-In-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Logging In - ESS"
+      Link="/Content/Documentation/eHub/Web/Tasks/Logging-In-ESS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Registering for eHub - CSS"
+      Link="/Content/Documentation/eHub/Web/Tasks/Registering-for-eHub-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Registering for eHub - ESS"
+      Link="/Content/Documentation/eHub/Web/Tasks/Registering-for-eHub-ESS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Overview">
+    <TocEntry
+      Title="WinTeam Set Up"
+      Link="/Content/Documentation/eHub/Web/References/Setup-in-WinTeam.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Supervisor Hierarchy"
+      Link="/Content/Documentation/eHub/Web/References/Supervisor-Hierarchy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="eHub Home Page"
+      Link="/Content/Documentation/eHub/Web/Overview/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Frequently Asked Questions"
+      Link="/Content/Documentation/eHub/Web/References/FAQ-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Payroll/W-2">
+    <TocEntry
+      Title="Employee Paycheck History"
+      Link="/Content/Documentation/eHub/Web/Overview/Paycheck-History-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting Up Paychecks"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-Paychecks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting Up W-2 Forms"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-W2-Forms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Supervisor Paycheck History"
+      Link="/Content/Documentation/eHub/Web/Overview/Paycheck-History-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Forms History"
+      Link="/Content/Documentation/eHub/Web/Overview/Tax-Forms-History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Wage Summary"
+      Link="/Content/Documentation/eHub/Web/Overview/Wage-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Personnel-Requests">
+    <TocEntry
+      Title="Creating Personnel Requests"
+      Link="/Content/Documentation/eHub/Web/Tasks/Creating-Personnel-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Personnel Requests Overview"
+      Link="/Content/Documentation/eHub/Web/Overview/Personnel-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Taking Action on Personnel Requests"
+      Link="/Content/Documentation/eHub/Web/Tasks/Taking-Action-on-Personnel-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Personnel-Scheduling">
+    <TocEntry
+      Title="Copying a Shift"
+      Link="/Content/Documentation/eHub/Web/Tasks/Copying-a-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Edit Shift Information"
+      Link="/Content/Documentation/eHub/Web/Tasks/Editing-Shift-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Notify Employees the Schedule is Available"
+      Link="/Content/Documentation/eHub/Web/Tasks/Notify-Employees-the-Schedule-is-Available.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Offering an Open Position to Employees"
+      Link="/Content/Documentation/eHub/Web/Tasks/Offering-an-Open-Position-to-Employees.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Personnel Scheduling Icons"
+      Link="/Content/Documentation/eHub/Web/References/Personnel-Scheduling-Icons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Personnel Scheduling - Employee"
+      Link="/Content/Documentation/eHub/Web/Overview/Personnel-Scheduling-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Personnel Scheduling - Supervisor"
+      Link="/Content/Documentation/eHub/Web/Overview/Personnel-Scheduling-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Search for Eligible Employee"
+      Link="/Content/Documentation/eHub/Web/Tasks/Searching-for-an-Eligible-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Reporting">
+    <TocEntry
+      Title="Employee Roster"
+      Link="/Content/Documentation/eHub/Web/Reports/Employee-Roster.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Compliance"
+      Link="/Content/Documentation/eHub/Web/Reports/Compliance.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Budget Hours Comparision"
+      Link="/Content/Documentation/eHub/Web/Reports/Hours-Budget-Comparison.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reports Summary"
+      Link="/Content/Documentation/eHub/Web/Reports/eHub-Reports-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Scheduling Activity"
+      Link="/Content/Documentation/eHub/Web/Reports/Schedule-Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Schedule"
+      Link="/Content/Documentation/eHub/Web/Reports/Schedule.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Turnover"
+      Link="/Content/Documentation/eHub/Web/Reports/Turnover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub TeamTime">
+    <TocEntry
+      Title="TeamTime"
+      Link="/Content/Documentation/eHub/Web/Overview/TeamTime.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installing a TeamTime Portal Device"
+      Link="/Content/Documentation/eHub/Web/Tasks/Installing-a-TeamTime-Portal-Device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Timekeeping">
+    <TocEntry
+      Title="Approve Time Worked"
+      Link="/Content/Documentation/eHub/Web/Overview/Approve-Time-Worked.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Exporting Timekeeping Records"
+      Link="/Content/Documentation/eHub/Web/Tasks/Exporting-Timekeeping-Records.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Adding a New Timekeeping Record"
+      Link="/Content/Documentation/eHub/Web/Tasks/Adding-a-New-Timekeeping-Record.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Splitting a Timekeeping Record"
+      Link="/Content/Documentation/eHub/Web/Tasks/Splitting-a-Timekeeping-Record.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Filter Definitions"
+      Link="/Content/Documentation/eHub/Web/References/Timekeeping-Filter-Definitions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Timekeeping with Employee Access"
+      Link="/Content/Documentation/eHub/Web/Overview/Timekeeping-for-Employee-Access.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Timekeeping with Supervisor Access"
+      Link="/Content/Documentation/eHub/Web/Overview/Timekeeping-for-Supervisor-Access.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Icons"
+      Link="/Content/Documentation/eHub/Web/References/Timekeeping-Icons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Lite Mode"
+      Link="/Content/Documentation/eHub/Web/References/Timekeeping-Lite-Mode.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Taking Action"
+      Link="/Content/Documentation/eHub/Web/Tasks/Taking-Action-in-Timekeeping.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Work-Scheduling">
+    <TocEntry
+      Title="Work Scheduling - CSS"
+      Link="/Content/Documentation/eHub/Web/Overview/Work-Scheduling-CSS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Scheduling - ESS"
+      Link="/Content/Documentation/eHub/Web/Overview/Work-Scheduling-ESS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Workflow">
+    <TocEntry
+      Title="Employee Information Change Request Workflow"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-an-Employee-Information-Change-Request-Workflow.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting up a Personnel Request Workflow"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-a-Personnel-Request-Workflow.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting up the Workflow Process"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-the-Workflow-Process.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting up a Work Request Workflow"
+      Link="/Content/Documentation/eHub/Web/Tasks/Setting-up-a-Work-Request-Workflow.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub Work-Requests">
+    <TocEntry
+      Title="Creating a Work Request"
+      Link="/Content/Documentation/eHub/Web/Tasks/Creating-a-Work-Request.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Taking Action on Work Requests"
+      Link="/Content/Documentation/eHub/Web/Tasks/Taking-Action-on-Work-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Requests Overview - Supervisor"
+      Link="/Content/Documentation/eHub/Web/Overview/Work-Requests-Supervisor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Requests Overview - Employee"
+      Link="/Content/Documentation/eHub/Web/Overview/Work-Requests-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

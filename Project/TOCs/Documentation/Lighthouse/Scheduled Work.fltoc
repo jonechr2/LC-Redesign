@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Scheduled Work">
+    <TocEntry
+      Title="Scheduled Work Exceptions"
+      Link="/Content/Documentation/lighthouse/Web/Signals/Exceptions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Scheduled Work Summary"
+      Link="/Content/Documentation/lighthouse/Web/Scheduled-Work/Scheduled-Work.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Scheduled Work Set Up"
+      Link="/Content/Documentation/lighthouse/Web/Scheduled-Work/Set-Up.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Service Hours"
+      Link="/Content/Documentation/lighthouse/Web/Locations/Service-Hours.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Maps">
+    <TocEntry
+      Title="Maps Overview and Navigation "
+      Link="/Content/Documentation/lighthouse/Web/Maps/Maps-Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Recent Activity"
+      Link="/Content/Documentation/lighthouse/Web/Maps/Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Searching for an Employee"
+      Link="/Content/Documentation/lighthouse/Web/Maps/Employee-Search.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Searching for a Location"
+      Link="/Content/Documentation/lighthouse/Web/Maps/Location-Search.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

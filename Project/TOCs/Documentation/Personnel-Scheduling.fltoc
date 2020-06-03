@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Personnel Scheduling Overview">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Managing-Personnel-Scheduling.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Personnel-Scheduling-Main.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Personnel Scheduling General Setup">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Change-Log-Reasons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Personnel-Scheduling-Main.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Personnel-Scheduling-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Personnel-Scheduling-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Personnel-Scheduling-Defaults.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Schedules-Diary-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Status-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Personnel Scheduling Setup">
+    <TocEntry
+      Title="Bill Codes By Job">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Bill-Codes-By-Job-Rollover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Grouping-Invoice-Details-by-Additional-Tier-Description.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Bill-Codes-By-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Bill-Codes-By-Job-Fixed.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Bill-Codes-By-Job-Markup-Percent.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Grouping-Invoice-Details-by-Additional-Tier-Description.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Bill-Codes-By-Job-Other-Bill-Type.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Bill-Codes-By-Job-Fixed.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Bill-Codes-By-Job-Markup-Percent.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Bill-Codes-By-Job-Other-Bill-Type.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Bill-Codes-By-Job-Rollover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-a-Non-Billable-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Using-Tier-Billing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></TocEntry>
+    <TocEntry
+      Title="Bill Code Categories">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Adding-Other-Billing-Methods-to-AR-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Creating-a-Non-Billable-Bill-Code-Category.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Bill-Code-Categories.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Adding-Other-Billing-Methods-to-AR-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+    </TocEntry>
+    <TocEntry
+      Title="General Setup">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Personnel-Scheduling-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Personnel-Scheduling-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Periodic-Check-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Post-Invoice-Groups.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Personnel-Scheduling-Defaults.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/System-Setup/References/PS-Wizard-Export-Process-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Payroll/Tasks/Sharing-Employees-at-Additional-Locations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Shift-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Rotating-Shifts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+
+    </TocEntry>
+    <TocEntry
+      Title="Post Watch">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Change-Log-Reasons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Post-Watch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Post Setup">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Post-Invoice-Groups.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Post-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Periodic-Check-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Rotating-Shifts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Schedules">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Experience.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Non-Billable-Type.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Non-Billable-Type.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Creating-Rotating-Shifts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Schedules-Diary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Schedules-Diary-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Status-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Split-Shifts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Using-Color-Coding.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></TocEntry>
+    <TocEntry
+      Title="Security">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Security-Troubleshooting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-Security-for-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Personnel Scheduling Processing">
+    <TocEntry
+      Title="General Processing">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Changing-the-First-Day-of-the-Pay-Week.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Rollover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Purge-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Scheduling-an-Employee-in-an-Open-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Open Postion Claim">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Offering-an-Open-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Open-Position-Claim.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Notifying-Employees-the-Schedule-is-Available.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Open-Position-Claim.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Using-Open-Position-Claim.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></TocEntry>
+    <TocEntry
+      Title="Personnel Scheduling Wizard">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Deleting-a-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Personnel-Wizard-FAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Personnel-Scheduling-Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Showing-All-Batches.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Updating-Other-Billing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Updating-Schedules-to-Payroll-and-Billing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Post Watch">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Post-Watch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Post-Watch-Review-Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Post-Watch-Confirm-Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Post-Watch-Confirm-Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+    </TocEntry>
+    <TocEntry
+      Title="Publish Notify">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Confirming-the-Schedule.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Notifying-Employees-the-Schedule-is-Available.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Schedule">
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Building-Schedules-From-TeamTime.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Building-Schedules-From-TeamTime.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Creating-Working-Weekly-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Deleting-a-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Hours-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Inserting-a-Shift-.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Offering-an-Open-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Confirming-the-Schedule.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Dispatch-Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Dispatch-Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Lookup-Employee-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Hours-By-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Hours-By-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Publishing-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Using-the-Schedules-Window.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Schedules-Diary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Notify.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Offering-an-Open-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Schedules-Shortcuts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Removing-Inactive-Employees-from-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Search-For-Eligible-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Scheduling-an-Employee-in-an-Open-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Search-For-Eligible-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Split-Shifts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Split-Shifts-Show-Splitting-Shifts-Option.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></TocEntry>
+    <TocEntry
+      Title="Validate Schedules">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Validate-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Validating-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Update Schedules From TeamTime">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Processing-Records-Using-PSTT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Update-Schedules-from-TeamTime-Split-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Setting-Up-PSTT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Update-Schedules-from-TeamTime.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Personnel Scheduling Review">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Employee-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Experience.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Hours-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Job-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Personnel-Wizard-FAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Billing-Review-and-Edit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Offer-Review.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Hours-By-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Hours-By-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Review-and-Edit-Paid-Hours.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Validate-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Billing-Review-and-Edit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Post-Watch-Review-Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Review-and-Edit-Paid-Hours.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Post-Watch-Review-Periodic-Checks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Shift-Status-Review.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Showing-All-Batches.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Overview/Validate-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Validating-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Validating-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Schedules-Find-and-Replace.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Tasks/Viewing-Shift-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Update-Schedules-from-TeamTime-Split-Shift.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></TocEntry>
+  <TocEntry
+    Title="Personnel Scheduling Reports">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Bill-Code-Category.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Bill-Codes-By-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Conflicting-Shifts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Interactive-Reports-Custom-Setting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Experience.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Hourly-Billing-Comparison.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Job-Post.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Non-Billed-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Open-Position-Warning.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Overtime-Warning.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Post-Qualification.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Scheduling-Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reference/Personnel-Scheduling-Reports-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Revenue.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Scheduling-Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Scheduling.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/TeamTime-Hours-vs-Scheduling-Hours.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/TeamTime-to-Scheduling-Update-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Timesheets-by-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Under-Hours.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Personnel-Scheduling/Reports/Working-vs-Master-Schedule.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Lighthouse"
+    StartSection="false">
+    <TocEntry
+      Title="Activity"
+      Link="/Project/TOCs/Documentation/Lighthouse/Activity.fltoc" />
+    <TocEntry
+      Title="Forms"
+      Link="/Project/TOCs/Documentation/Lighthouse/Forms.fltoc" />
+    <TocEntry
+      Title="Integration"
+      Link="/Project/TOCs/Documentation/Lighthouse/Integration.fltoc" />
+    <TocEntry
+      Title="Locations"
+      Link="/Project/TOCs/Documentation/Lighthouse/Locations.fltoc" />
+    <TocEntry
+      Title="Maps"
+      Link="/Project/TOCs/Documentation/Lighthouse/Maps.fltoc" />
+    <TocEntry
+      Title="Messages"
+      Link="/Project/TOCs/Documentation/Lighthouse/Messages.fltoc" />
+    <TocEntry
+      Title="Reference"
+      Link="/Project/TOCs/Documentation/Lighthouse/Reference.fltoc" />
+    <TocEntry
+      Title="Reports"
+      Link="/Project/TOCs/Documentation/Lighthouse/Reports.fltoc" />
+    <TocEntry
+      Title="Scheduled Work"
+      Link="/Project/TOCs/Documentation/Lighthouse/Scheduled Work.fltoc" />
+    <TocEntry
+      Title="Settings"
+      Link="/Project/TOCs/Documentation/Lighthouse/Settings.fltoc" />
+    <TocEntry
+      Title="Signals"
+      Link="/Project/TOCs/Documentation/Lighthouse/Signals.fltoc" />
+  </TocEntry>
+</CatapultToc>

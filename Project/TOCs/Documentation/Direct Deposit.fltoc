@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Direct Deposit - Video "
+    Link="http://help.teamsoftware.com/Downloads/Videos/Setting-Up-Employee-Direct-Deposit.mp4"
+    Class="TOC_video" />
+  <TocEntry
+    Title="Direct Deposit Information - Article "
+    Link="/Content/Documentation/WinTeam/Payroll/References/Direct-Deposit-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Class="TOC_Doc" />
+  <TocEntry
+    Title="Direct Deposit Import - Article "
+    Link="/Content/Documentation/WinTeam/Payroll/References/Direct-Deposit-Import.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Adding Direct Deposit Checks "
+    Link="/Content/Documentation/WinTeam/Payroll/Tasks/Adding-Direct-Deposit-Checks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+</CatapultToc>

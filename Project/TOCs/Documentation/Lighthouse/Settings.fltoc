@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Settings">
+    <TocEntry
+      Title="Add or Invite a New User"
+      Link="/Content/Documentation/lighthouse/Web/Settings/Add-Invite-User.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Remove User Access"
+      Link="/Content/Documentation/lighthouse/Web/Settings/Remove-User-Access.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Resetting Passwords"
+      Link="/Content/Documentation/lighthouse/Web/Settings/Reset-Password.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="User Roles and Access Permissions"
+      Link="/Content/Documentation/lighthouse/Web/Settings/Roles-Permissions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

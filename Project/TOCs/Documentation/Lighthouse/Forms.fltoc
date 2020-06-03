@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Forms">
+    <TocEntry
+      Title="Web Forms">
+      <TocEntry
+        Title="Forms Overview "
+        Link="/Content/Documentation/lighthouse/Web/Forms/Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Adding an Audit Form Template"
+        Link="/Content/Documentation/lighthouse/Web/Forms/Adding-Audit-Template.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Adding an Issue Form Template"
+        Link="/Content/Documentation/lighthouse/Web/Forms/Adding-Issue-Template.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Adding a Task Form Template "
+        Link="/Content/Documentation/lighthouse/Web/Forms/Adding-Task-Template.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Adding New Form Templates"
+        Link="/Content/Documentation/lighthouse/Web/Forms/Add-New-Form.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Adding Images to Forms "
+        Link="/Content/Documentation/lighthouse/Web/Forms/Adding-Image-Form.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Assigning Forms to Locations or Zones "
+        Link="/Content/Documentation/lighthouse/Web/Forms/Assign-Form.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Editing Submitted Forms "
+        Link="/Content/Documentation/lighthouse/Web/Forms/Edit-Submitted-Forms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Mobile Forms">
+      <TocEntry
+        Title="Changing a Location/Zone"
+        Link="/Content/Documentation/lighthouse/Mobile/Forms/Change-Location.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Submitting Forms"
+        Link="/Content/Documentation/lighthouse/Mobile/Forms/Mobile-Forms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Submitting an Issue"
+        Link="/Content/Documentation/lighthouse/Mobile/Forms/Submitting-Issue.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Submitting an Audit"
+        Link="/Content/Documentation/lighthouse/Mobile/Forms/Submitting-Audit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Submitting a Task"
+        Link="/Content/Documentation/lighthouse/Mobile/Forms/Submitting-Task.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+
+      Title="Forms Overview "
+      Link="/Content/Documentation/lighthouse/Web/Forms/Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;
+    </TocEntry>
+</CatapultToc>

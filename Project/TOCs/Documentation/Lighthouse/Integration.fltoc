@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Integration">
+    <TocEntry
+      Title="Integration FAQ"
+      Link="/Content/Documentation/lighthouse/Integration/Integration-FAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Job/Employee Information Transfer"
+      Link="/Content/Documentation/lighthouse/Integration/Job-EE-Transfer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PS Schedules"
+      Link="/Content/Documentation/lighthouse/Integration/Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Integration Summary"
+      Link="/Content/Documentation/lighthouse/Integration/Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="TeamTime"
+      Link="/Content/Documentation/lighthouse/Integration/TeamTime.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Messages">
+    <TocEntry
+      Title="Web - Messages and Message Groups"
+      Link="/Content/Documentation/lighthouse/Web/Messages/Messages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mobile - Messages and Message Groups"
+      Link="/Content/Documentation/lighthouse/Mobile/Messages/Mobile-Messages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Locations">
+    <TocEntry
+      Title="Adding Locations "
+      Link="/Content/Documentation/lighthouse/Web/Locations/Add-Location.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deleting Locations, Geofence or Signals "
+      Link="/Content/Documentation/lighthouse/Web/Locations/Delete-Location.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Service Hours"
+      Link="/Content/Documentation/lighthouse/Web/Locations/Service-Hours.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

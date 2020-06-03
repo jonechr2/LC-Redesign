@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="WinTeam"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Basics"
+      Link="/Project/TOCs/Documentation/Basics.fltoc" />
+    <TocEntry
+      Title="Accounts-Payable"
+      Link="/Project/TOCs/Documentation/Accounts-Payable.fltoc" />
+    <TocEntry
+      Title="Accounts-Receivable"
+      Link="/Project/TOCs/Documentation/Accounts-Receivable.fltoc" />
+    <TocEntry
+      Title="Action-Items"
+      Link="/Project/TOCs/Documentation/Action-Items.fltoc" />
+    <TocEntry
+      Title="CreaTeam"
+      Link="/Project/TOCs/Documentation/CreaTeam.fltoc" />
+    <TocEntry
+      Title="DocLink"
+      Link="/Project/TOCs/Documentation/DocLink.fltoc" />
+    <TocEntry
+      Title="Fixed-Assets"
+      Link="/Project/TOCs/Documentation/Fixed-Assets.fltoc" />
+    <TocEntry
+      Title="General-Ledger"
+      Link="/Project/TOCs/Documentation/General-Ledger.fltoc" />
+    <TocEntry
+      Title="Human-Resources"
+      Link="/Project/TOCs/Documentation/Human-Resources.fltoc" />
+    <TocEntry
+      Title="Insurance-Benefits"
+      Link="/Project/TOCs/Documentation/Insurance-Benefits.fltoc" />
+    <TocEntry
+      Title="Inventory"
+      Link="/Project/TOCs/Documentation/Inventory.fltoc" />
+    <TocEntry
+      Title="Job-Costing"
+      Link="/Project/TOCs/Documentation/Job-Costing.fltoc" />
+    <TocEntry
+      Title="Payroll"
+      Link="/Project/TOCs/Documentation/Payroll.fltoc" />
+    <TocEntry
+      Title="Personnel-Scheduling"
+      Link="/Project/TOCs/Documentation/Personnel-Scheduling.fltoc" />
+    <TocEntry
+      Title="Quality-Assurance"
+      Link="/Project/TOCs/Documentation/Quality-Assurance.fltoc" />
+    <TocEntry
+      Title="System"
+      Link="/Project/TOCs/Documentation/System.fltoc" />
+    <TocEntry
+      Title="Work-Scheduling"
+      Link="/Project/TOCs/Documentation/Work-Scheduling.fltoc" />
+  </TocEntry>
+  <TocEntry
+    Title="eHub"
+    Link="/Project/TOCs/Documentation/eHub.fltoc" />
+  <TocEntry
+    Title="Lighthouse"
+    Link="/Project/TOCs/Documentation/Lighthouse/Lighthouse.fltoc" />
+  <TocEntry
+    Title="TeamTime"
+    Link="/Project/TOCs/Documentation/TeamTime.fltoc" />
+  <TocEntry
+    Title="Query-Scheduler"
+    Link="/Project/TOCs/Documentation/Query-Scheduler.fltoc" />
+  <TocEntry
+    Title="TeamBid"
+    Link="/Project/TOCs/Documentation/TeamBid.fltoc" />
+  <TocEntry
+    Title="Saas"
+    Link="/Project/TOCs/Documentation/Saas.fltoc" />
+  <TocEntry
+    Title="Business Intelligence"
+    Link="/Project/TOCs/Data-Analytics/Business-Intelligence.fltoc" />
+  <TocEntry
+    Title="Insights Dashboard"
+    Link="/Project/TOCs/Data-Analytics/Insights-Dashboard.fltoc" />
+  <TocEntry
+    Title="Q"
+    Link="/Project/TOCs/Documentation/Q.fltoc" />
+  <TocEntry
+    Title="API"
+    Link="/Project/TOCs/Documentation/API.fltoc" />
+  <TocEntry
+    Title="Release Notes">
+    <TocEntry
+      Title="Release-Notes-2020"
+      Link="/Project/TOCs/Documentation/Release-Notes/Release-Notes-2020.fltoc" />
+    <TocEntry
+      Title="Release-Notes-2019"
+      Link="/Project/TOCs/Documentation/Release-Notes/Release-Notes-2019.fltoc" />
+  </TocEntry>
+  <TocEntry
+    Title="Feature-Announcements">
+    <TocEntry
+      Title="Feature-Announcements-2018"
+      Link="/Project/TOCs/Documentation/Feature-Announcements/Feature-Announcements-2018.fltoc"></TocEntry>
+    <TocEntry
+      Title="Feature-Announcements-2019"
+      Link="/Project/TOCs/Documentation/Feature-Announcements/Feature-Announcements-2019.fltoc" />
+    <TocEntry
+      Title="Feature-Announcements-2020"
+      Link="/Project/TOCs/Documentation/Feature-Announcements/Feature-Announcements-2020.fltoc"
+      conditions="Build.DEV" />
+  </TocEntry>
+  <TocEntry
+    Title="Tax-Engine-Original"
+    Link="/Project/TOCs/Documentation/Tax-Engine-Original.fltoc" />
+  <TocEntry
+    Title="Tax-Engine-Updated"
+    Link="/Project/TOCs/Documentation/Tax-Engine-Updated.fltoc" />
+  <TocEntry
+    Title="Tax-Updates"
+    Link="/Project/TOCs/Documentation/Tax-Updates.fltoc" />
+  <TocEntry
+    Title="COVID-19"
+    Link="/Project/TOCs/COVID-19.fltoc"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+</CatapultToc>

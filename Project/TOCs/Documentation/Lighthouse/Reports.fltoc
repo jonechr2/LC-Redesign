@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Reports"
+    Link="/Content/Documentation/lighthouse/Landing-Reports.htm">
+    <TocEntry
+      Title="Automated Notifications and Email Reporting "
+      Link="/Content/Documentation/lighthouse/Web/Reports/Automated-Notifications-Email.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Daily Location (Activity) Reports "
+      Link="/Content/Documentation/lighthouse/Web/Reports/Daily-Location-Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Daily Shifts Report"
+      Link="/Content/Documentation/lighthouse/Web/Reports/Daily-Shift-Report.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Display or Hide Text on Forms and Reports"
+      Link="/Content/Documentation/lighthouse/Web/Reports/Display-Hide-Text.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Export/Print a list of Zones"
+      Link="/Content/Documentation/lighthouse/Web/Signals/Export-Zones.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Report Filters"
+      Link="/Content/Documentation/lighthouse/Web/Reports/Filtering-Reports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reports for Customers "
+      Link="/Content/Documentation/lighthouse/Web/Reports/Customer-Reporting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Viewing and Downloading Reports"
+      Link="/Content/Documentation/lighthouse/Web/Reports/View-Download-Reports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

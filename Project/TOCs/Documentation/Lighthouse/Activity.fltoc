@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Activity">
+    <TocEntry
+      Title="Activity in Maps View"
+      Link="/Content/Documentation/lighthouse/Web/Maps/Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Recent Activity in Mobile"
+      Link="/Content/Documentation/lighthouse/Mobile/Activity/Mobile-Recent-Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

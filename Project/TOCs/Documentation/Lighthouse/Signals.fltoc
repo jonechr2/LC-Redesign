@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Signals">
+    <TocEntry
+      Title="Adding Beacons "
+      Link="/Content/Documentation/lighthouse/Web/Signals/Adding-Beacons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Adding QR Codes "
+      Link="/Content/Documentation/lighthouse/Web/Signals/Adding-QR-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Beacons"
+      Link="/Content/Documentation/lighthouse/Web/Signals/Beacons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Build.DEV" />
+    <TocEntry
+      Title="Edit or Move Signals"
+      Link="/Content/Documentation/lighthouse/Web/Signals/Edit-Move-Signal.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Export/Print a list of Zones"
+      Link="/Content/Documentation/lighthouse/Web/Signals/Export-Zones.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Scheduled Work Exceptions"
+      Link="/Content/Documentation/lighthouse/Web/Signals/Exceptions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting Up Your NFC Tags"
+      Link="/Content/Documentation/lighthouse/Web/Signals/NFC-Tag-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Printing QR Codes and Labels "
+      Link="/Content/Documentation/lighthouse/Web/Signals/Printing-QR-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Scanning QR Codes and NFC Tags in Mobile "
+      Link="/Content/Documentation/lighthouse/Mobile/Signals/Scanning-QR-NFC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Scanning NFC Tags"
+      Link="/Content/Documentation/lighthouse/Mobile/Signals/NFC-Scan.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>
