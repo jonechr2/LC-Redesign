@@ -6,7 +6,8 @@
   Destinations=""
   ShowMadCapBacklink="false"
   GlossaryTermConversion="marked"
-  DefaultUrl="/Content/Resources/Home.htm">
+  DefaultUrl="/Content/Resources/Home.htm"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
