@@ -51,7 +51,7 @@ h1, h2, h3, p, a, li {
         }
         
         .ui-tabs-panel {
-            background-color: white; 
+            background-color: #cacaca; 
             padding: 50px 15px;
             margin-top: -50px;
         }
