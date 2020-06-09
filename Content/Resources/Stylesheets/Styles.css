@@ -79,6 +79,7 @@ h1, h2, h3, p, a, li {
             padding-bottom: 20px;
             margin: 0;
             width: 80%;
+			height: 100% !important;
         }
 	.ui-tabs .ui-tabs-nav li a { 
     outline:none !important;
@@ -86,7 +87,7 @@ h1, h2, h3, p, a, li {
 *:focus{
 outline:none !important;}
 
- /*Resource Type*/      
+ /*Resource Type    
         ul {list-style-type: none;}
         
         .text:before {
@@ -104,6 +105,28 @@ outline:none !important;}
         }
         
         .elearning:before {
+            content: '\f108';
+            font-family: 'FontAwesome';
+            padding-right: 15px;
+            color: #68B842;
+        }
+		*/
+		/* Fixing icons for menu proxy */
+		 .text>a:before {
+            content: '\f15c';
+            font-family: 'FontAwesome';
+            padding-right: 15px;
+            color: #68B842;
+        }
+        
+        .video>a:before {
+            content: '\f03d';
+            font-family: 'FontAwesome';
+            padding-right: 15px;
+            color: #68B842;
+        }
+        
+        .elearning>a:before {
             content: '\f108';
             font-family: 'FontAwesome';
             padding-right: 15px;
