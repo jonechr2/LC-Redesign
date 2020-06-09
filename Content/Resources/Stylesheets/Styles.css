@@ -122,3 +122,11 @@ outline:none !important;}
             text-transform: uppercase;
             width: 200px;
         }
+		ul.nocontent.menu.mc-component li:nth-child(n+5){
+		display:none;
+		}
+		.show{
+		display:none;
+		color:blue;
+		cursor:pointer;
+		}
