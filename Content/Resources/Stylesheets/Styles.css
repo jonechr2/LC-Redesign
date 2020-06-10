@@ -1,46 +1,84 @@
 ﻿/*<meta />*/
+		.row.outer-row.sidenav-layout {
+		max-width: 80vw;
+		}
 
-h1, h2, h3, p, a, li {
+
+        h1, h2, h3, p, a, li {
             font-family: sans-serif;
         }
-        
-        header {
-            width: 100%;
-            height: 10vh;
+        body {
+            margin: 0;
         }
-		.off-canvas-wrapper-inner .outer-row{
-		max-width:100%;
-		}
+        header {
+            height: 10vh;
+            background: white;
+        }
+    
         
         .bar {
             background-color: #047fb8;
             height: 2vh;
             margin-bottom: 0;}
+        .menubar {
+            display: flex;
+            width: 30%;
+            text-transform: uppercase;
+        }
         
         .main { 
             width: 80%;
             margin-left: 10%;
-            margin-top: 5vh;
+            margin-top: 15vh;
         }
+        
+       
+        .newButton {
+            background-color: #d10066;
+            color: white;
+            float: right;
+            border-radius: 50%;
+            height: 70px;
+            width: 70px;
+            text-transform: uppercase;
+            font-family: sans-serif;
+            font-size: 12px;
+            text-align: center;
+            margin-top: 10px;
+        }
+        
         .faq {
             text-align: center;
+            margin: auto;
+            width: 60%;
+            padding-bottom: 20px;
         }
         .faq table {
             margin: auto;
         }
         
+        .faq h2 {color: #5f5f5f;}
+        
         .faq table td {
             padding: 5px 30px;
         }
+        
+        
+        
+        
+        
         ul[role="tablist"] {
             display: flex;
             justify-content: space-between;
+            padding-inline-start: 0;
+            width: 80%;
+            margin: auto;
         }
         .tabButton {
             background-color: #047fb8;
             list-style: none;
-            padding: 15px;
-            border-radius: 10px;  
+            padding: 15px 50px;
+            border-radius: 10px 10px 0 0;  
         }
         
         .tabButton a {
@@ -51,9 +89,11 @@ h1, h2, h3, p, a, li {
         }
         
         .ui-tabs-panel {
-            background-color: #cacaca; 
-            padding: 50px 15px;
-            margin-top: -50px;
+            background-color: white; 
+            padding: 0px 15px;
+   
+            border: 5px solid #047fb8;     
+            border-radius: 10px;
         }
         .ui-accordion-header {
             background-color: #047fb8;
@@ -61,10 +101,13 @@ h1, h2, h3, p, a, li {
             color: white;
             margin: 0;
             border-bottom: 5px solid white;
+            border-radius: 10px;
+            cursor: pointer;
         }
         .ui-accordion-content {
             background: white;
             padding-bottom: 80px;
+            height: auto!important;
         }
         
         #accordion p, a, li {
@@ -75,19 +118,20 @@ h1, h2, h3, p, a, li {
         .topics {
             display: flex;
             flex-wrap: wrap;
-            justify-content: space-around;
-            padding-bottom: 20px;
-            margin: 0;
-            width: 80%;
-			height: 100% !important;
-        }
-	.ui-tabs .ui-tabs-nav li a { 
-    outline:none !important;
-}
-*:focus{
-outline:none !important;}
 
- /*Resource Type    
+            padding-bottom: 20px;
+            padding-top: 20px;
+            margin: auto;
+            width: 80%;
+
+        }
+        
+        .subtopic {
+            min-width: 30%;
+            padding-bottom: 20px;
+        }
+
+ /*Resource Type*/      
         ul {list-style-type: none;}
         
         .text:before {
@@ -110,40 +154,34 @@ outline:none !important;}
             padding-right: 15px;
             color: #68B842;
         }
-		*/
-		/* Fixing icons for menu proxy */
-		 .text>a:before {
-            content: '\f15c';
-            font-family: 'FontAwesome';
-            padding-right: 15px;
-            color: #68B842;
-        }
         
-        .video>a:before {
-            content: '\f03d';
-            font-family: 'FontAwesome';
-            padding-right: 15px;
-            color: #68B842;
-        }
-        
-        .elearning>a:before {
-            content: '\f108';
-            font-family: 'FontAwesome';
-            padding-right: 15px;
-            color: #68B842;
-        }
-        
+
         .bookings {
             background-color: #68B842;
-            border-radius: 20px;
+            border-radius: 10px 0 0 10px;
             float: right;
+            right: 0;
+            bottom: 60px;
+            position: fixed;
             padding: 15px 30px;
             border: none;
-            box-shadow: 4px 6px 10px 0px;
+            box-shadow: #ababab 6px 5px 10px 0px;
             font-size: 14px;
             color: white;
             text-transform: uppercase;
-            width: 200px;
+            width: 50px;
+            height: 100px;
+        }
+        
+        .start {
+            height: 100vh;
+        }
+        .start h2 {
+            text-align: center;
+            padding-top: 5%;
+            font-size: 48px;
+            font-weight: 700;
+            color: #999999;
         }
 		ul.nocontent.menu.mc-component li:nth-child(n+5){
 		display:none;
