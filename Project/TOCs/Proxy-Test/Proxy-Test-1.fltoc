@@ -20,5 +20,9 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Topic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    Class="text" />
+    Class="text"></TocEntry>
+  <TocEntry
+    Title="Brand New Topic "
+    Class="elearning"
+    Link="/Content/Resources/Home.htm" />
 </CatapultToc>
