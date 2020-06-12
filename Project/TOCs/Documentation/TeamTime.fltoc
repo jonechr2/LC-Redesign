@@ -343,7 +343,10 @@
       Link="/Content/Documentation/WinTeam/TeamTime/Tasks/Installing-SMTP.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/TeamTime/Tasks/Using-Script-Runner.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/TeamTime/Tasks/Using-Script-Runner.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Basics/Reference/TeamTime-Mobile-GPS-Spoofing-Prevention.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="TeamTime TeleTeam">

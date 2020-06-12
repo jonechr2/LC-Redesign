@@ -150,7 +150,10 @@
       Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Updating-Employee-Compliance-Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Using-the-Compliance-Alert-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Using-the-Compliance-Alert-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Basics/Tasks/Setting-Up-the-Email-Sender-and-Compliance-Alert-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Human Resources General Setup">

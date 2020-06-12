@@ -2,19 +2,106 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Accounts Payable Check Batch - Wizard">
+    Title="Accounts Payable Overview and General Setup">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-an-Automatic-Payment-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Accounts-Payable-Main.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Single-Payment-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Accounts-Payable-Common-Tasks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Payment-Processing-Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Accounts-Payable-Defaults.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Working-with-the-Payment-Processing-Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Installing-MICR-Font.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Approved-By.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Requested-By.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Allowing-Batchless-Payments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Shipping-Terms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Use-Tax-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Accounts-Payable-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Excluding-Signature-Limit-Checks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Accounts Payable Invoices">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Basics/Tasks/Changing-the-Print-or-Invoice-Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Invoice-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Invoice-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-an-Invoice.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payments-Select-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Update-Invoice-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-to-Invoice-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Recurring-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Recurring-Invoice-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Recurring-Invoice.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-Invoices-from-Imported-Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-Invoices-to-the-General-Ledger-by-User.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Accounts Payable Vendors">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Vendor-Master-File.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Vendor-Master-File-Special-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Vendor-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Vendor-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Minority-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Adding-a-Vendor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Entering-Beginning-Balances-for-Vendors.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payment-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Accounts Payable Credit Vendors/Credit Cards">
@@ -23,13 +110,13 @@
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Adding-a-Credit-Card-Vendor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Credit-Card-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-Credit-Card-Vendor-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Credit-Vendor-Reconciliation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Credit-Card-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Recording-Credit-Card-Transactions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -41,40 +128,100 @@
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Reconciling-Credit-Vendors.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="Accounts Payable General Setup">
+    Title="Accounts Payable Payments">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Payments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payment-Terms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Allowing-Batchless-Payments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Approved-By.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Processing-Payments-without-Creating-a-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Accounts-Payable-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Single-Payment-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Accounts-Payable-Defaults.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payments-Select-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Shipping-Terms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Payment-for-a-Nonstandard-Vendor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Minority-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Paying-Multiple-Vendor-Invoices-on-One-Payment-Record.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Requested-By.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Finding-Payments-Not-Cleared.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Accounts Payable Checks">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Type.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Printing-on-Blank-Check-Stock.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Use-Tax-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Print-Checks-Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Excluding-Signature-Limit-Checks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Print-Checks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Installing-MICR-Font.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-an-Automatic-Payment-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Single-Payment-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Payment-Processing-Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Working-with-the-Payment-Processing-Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Voiding-a-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Credit-Memo-When-Voiding-a-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Accounts Payable General Ledger">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Accounts-Payable-Update-to-GL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-Payments-to-the-General-Ledger.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Reconciling-Aging-to-the-General-Ledger.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Liability-Transfer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-Liability-Transfers-to-the-General-Ledger.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Accounts Payable NACHA">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/NACHA-Bank-Transmission.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Setup/References/NACHA-Multi-Company-ID-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-NACHA-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Reimbursing-Employee-Expenses-By-Direct-Deposit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Sending-NACHA-Advice-Electronically.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Accounts Payable General Processing">
@@ -84,9 +231,6 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Complying-with-State-Escheat-Laws.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Liability-Transfer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Accounts Payable Importing/Exporting">
@@ -104,6 +248,24 @@
     Title="Accounts Payable Reports">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Accounts-Payable-Reports-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Accounts-Payable-Diary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Master.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-1099.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Aging-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Cash-Requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
@@ -113,237 +275,12 @@
       Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Credit-Reconciliation-Report.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Accounts-Payable-Diary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/NACHA-Bank-Transmission.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Reconciliation-History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Accounts-Payable-Reports-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-1099.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Aging-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Master.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Use-Tax-Due.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Invoices">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-an-Invoice.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Recurring-Invoice.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-Invoices-from-Imported-Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Invoice-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Invoice-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payments-Select-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-to-Invoice-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Update-Invoice-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-Invoices-to-the-General-Ledger-by-User.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Overview">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Accounts-Payable-Action-Plan.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Accounts-Payable-Main.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Accounts-Payable-Common-Tasks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Payments">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Allowing-Batchless-Payments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Single-Payment-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Payments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payments-Select-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payment-Terms.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Print Checks">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Print-Checks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Print-Checks-Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Purchase Orders">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Print-Purchase-Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Printing-Purchase-Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Purchase-Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-Purchase-Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Purchase-Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Purchase-Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Using-an-External-Purchase-Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Recurring Invoices">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Recurring-Invoices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Recurring-Invoice-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable General Ledger">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Accounts-Payable-Update-to-GL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Reconciling-Aging-to-the-General-Ledger.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-Payments-to-the-General-Ledger.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Updating-Liability-Transfers-to-the-General-Ledger.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable NACHA">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-NACHA-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/NACHA-Bank-Transmission.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Reimbursing-Employee-Expenses-By-Direct-Deposit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Sending-NACHA-Advice-Electronically.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Setup/References/NACHA-Multi-Company-ID-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Payments">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Payment-for-a-Nonstandard-Vendor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Finding-Payments-Not-Cleared.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Paying-Multiple-Vendor-Invoices-on-One-Payment-Record.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Processing-Payments-without-Creating-a-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Voiding Check">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Voiding-a-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Credit-Memo-When-Voiding-a-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Accounts Payable Vendors">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Adding-a-Credit-Card-Vendor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Adding-a-Vendor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Creating-a-Payment-for-a-Nonstandard-Vendor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Credit-Reconciliation-Report.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Entering-Beginning-Balances-for-Vendors.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Tasks/Paying-Multiple-Vendor-Invoices-on-One-Payment-Record.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Aging-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Vendor-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Overview/Vendor-Master-File.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-Master.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Payment-Details.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Vendor-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Vendor-1099.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Accounts-Payable/References/Vendor-Master-File-Special-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Accounts-Payable/Reports/Use-Tax-Due.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>
