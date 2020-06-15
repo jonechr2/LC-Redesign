@@ -134,21 +134,21 @@
  /*Resource Type*/      
         ul {list-style-type: none;}
         
-        .text:before {
+        .text>a:before {
             content: '\f15c';
             font-family: 'FontAwesome';
             padding-right: 15px;
             color: #68B842;
         }
         
-        .video:before {
+        .video>a:before {
             content: '\f03d';
             font-family: 'FontAwesome';
             padding-right: 15px;
             color: #68B842;
         }
         
-        .elearning:before {
+        .elearning>a:before {
             content: '\f108';
             font-family: 'FontAwesome';
             padding-right: 15px;
@@ -183,7 +183,7 @@
             font-weight: 700;
             color: #999999;
         }
-		ul.nocontent.menu.mc-component li:nth-child(n+5){
+		ul.nocontent.menu.mc-component li:nth-child(n+6){
 		display:none;
 		}
 		.show{
