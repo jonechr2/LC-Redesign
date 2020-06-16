@@ -46,6 +46,10 @@
             margin-top: 10px;
         }
        
+		.newButton p {
+            line-height: 1.2;
+        }
+		
         .faq {
             text-align: center;
             margin: auto;
@@ -70,29 +74,49 @@
             display: flex;
             justify-content: space-between;
             padding-inline-start: 0;
-            width: 80%;
             margin: auto;
         }
         .tabButton {
-            background-color: #047fb8;
             list-style: none;
-            padding: 15px 50px;
-            border-radius: 10px 10px 0 0;  
+            border-right: 1px solid;
+            width: 20vw;
+            height: 8vh;
+            text-align: center;
+            padding-top: 15px;
+        }
+ 
+        .tabButton:hover {
+            opacity: .5;
+        }
+        .tabButton:active {
+            background-color: #047fb8;
         }
         
-        .tabButton a {
-            color: white;
+        .tabButton:last-of-type {
+            border: none;
+        }
+        
+        li.tabButton a {
+            color: gray;
             font-size: 18px;
             font-family: sans-serif;
             text-decoration: none;
+            font-weight: 700;
+            display: flex;
+            justify-content: space-evenly;
+            width: 80%;
+            margin: auto;
+        }
+        
+        li.tabButton img {
+            height: 6vh;
         }
         
         .ui-tabs-panel {
-            background-color: white; 
-            padding: 0px 15px;
-   
-            border: 5px solid #047fb8;     
-            border-radius: 10px;
+            background-color: white;
+            padding: 0 30px 30px 30px;
+            border-top: 10px solid #047fb8;
+            box-shadow: #eee 0px 8px 16px 9px;
         }
         .ui-accordion-header {
             padding: 20px;
@@ -103,14 +127,19 @@
 			margin-bottom: 0;
         }
         
-        .ui-accordion-header h3:before {
+         .accordion > h3:before {
+            content:"\f067";
+            font-family: FontAwesome;
+            padding-right: 15px;
+            color: #1ad1c2;
+        }
+        .accordion > h3.ui-state-active:before {
             font-family: FontAwesome;
             content:"\f068";
-            padding-right: 5px;
+            padding-right: 15px;
+            color: #1ad1c2;
         }
-        .ui-accordion-header h3.collapsed:before {
-            content:"\f067";
-        }
+		
         .ui-accordion-content {
             background: white;
             height: auto!important;
@@ -123,6 +152,7 @@
 		
 		.accordion li {
 			line-height: 2;
+			text-decoration: none;
 			}
 			
         .topics {
@@ -215,6 +245,7 @@
             text-transform: uppercase;
             width: 50px;
             height: 100px;
+			line-height: 1.5;
         }
         
 <<<<<<< HEAD
