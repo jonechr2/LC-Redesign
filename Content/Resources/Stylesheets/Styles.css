@@ -151,8 +151,7 @@
 
         .text>a:before {
             content: '\f15c';
-
-            font-family: 'FontAwesome';
+font-family: 'FontAwesome';
             padding-right: 15px;
             color: #68B842;
         }
@@ -204,7 +203,7 @@
             height: 100px;
         }
         
-<<<<<<< HEAD
+
         .start {
             height: 100vh;
         }
@@ -215,8 +214,8 @@
             font-weight: 700;
             color: #999999;
         }
-		ul.nocontent.menu.mc-component li:nth-child(n+6){
-=======
+	
+
 #searchwrap {
   margin: 50px 100px;
   display: inline-block;
@@ -280,9 +279,12 @@ input[type="submit"] {
 input[type="submit"]:hover {
   opacity: 0.8;
 }
+*:focus{
+outline: none;
+}
         
-		ul.nocontent.menu.mc-component li:nth-child(n+5){
->>>>>>> a89dfb5b3a280dfd784a0b1a876dbaa0879aa825
+		ul.nocontent.menu.mc-component li:nth-child(n+6){
+
 		display:none;
 		}
 		.show{
