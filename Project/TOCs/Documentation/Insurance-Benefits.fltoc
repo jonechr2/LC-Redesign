@@ -239,4 +239,21 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Insurance-Benefits/References/Percentage-Based-Deductions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Documentation/WinTeam/Human-Resources/References/New-York-Dependent-Health-Insurance-Benefit-Reporting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-an-Insurance-Deduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-an-Insurance-Other-Benefit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-Employer-Sponsored-Healthcare.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Assigning-an-Insurance-Plan-to-an-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
 </CatapultToc>

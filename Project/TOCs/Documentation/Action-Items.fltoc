@@ -12,9 +12,33 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/System-Action-Items/Tasks/Getting-Started-with-Action-Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Action-Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Items-and-Job-Costing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Action Items Setup">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Action-Items-Defaults.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Item-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Item-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Templates-By-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Template-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Action-Items/Tasks/Setting-Up-an-Action-Item-Job-Link.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/System-Action-Items/References/TeamTime-Alerts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -23,37 +47,13 @@
       Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Item-Requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Items-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/System-Action-Items/Tasks/Setting-Up-Request-and-Alert-Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Item-Statuses.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/Tasks/Setting-Up-Request-and-Alert-Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/Tasks/Setting-Up-an-Action-Item-Job-Link.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Action-Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Items-and-Job-Costing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Action-Items-Defaults.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Item-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Template-Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/Overview/Templates-By-Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Item-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/System-Action-Items/References/Action-Items-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Action Items Processing">

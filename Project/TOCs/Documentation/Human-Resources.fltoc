@@ -2,13 +2,115 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Human Resources Benefit-Related">
+    Title="Human Resources Overview and Setup">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Human-Resources-Main.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Human-Resources-Topics-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Human-Resources-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Rehire-Eligibility.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/System-Setup/Overview/Alert-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Human-Resources-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Human Resources ID-Badges">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Employee-ID-Badges.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Employee-ID-Badge-Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Human Resources Workforce-Analysis">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Workforce-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Workforce-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Using-Workforce-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Human Resources Equipment-Tracking">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Equipment-Tracker.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Assigning-Equipment-to-an-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Including-Equipment-Tracker-Items-when-Updating-Inventory.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Human Resources Compliance">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Tracking-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-Compliance-Tracking-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Compliance-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Compliance-Tracking-Group-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Group-Type-Descriptions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Tracking-by-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Tracking-by-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Employee-Compliance-Tracker-Quick-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Updating-Employee-Compliance-Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/License-Status.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Performed-By.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Using-the-Compliance-Alert-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Basics/Tasks/Setting-Up-the-Email-Sender-and-Compliance-Alert-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Alert-Review.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Compliance-Tracking-History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Scheduling-Response-Level.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Human Resources Hourly Benefits">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Assigning-a-Benefit-Category-to-an-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Assigning-an-Insurance-Plan-to-an-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Benefit-Categories.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -44,9 +146,6 @@
       Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Determining-Hours-Worked.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-Employer-Sponsored-Healthcare.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Human-Resources/References/Insurance-Other-Benefits-History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
@@ -61,147 +160,47 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-an-Hours-Accrual-Benefit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-an-Insurance-Deduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Human Resources Cash-Outs">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Cash-Outs-Update.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Cashing-Out-Benefits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-an-Insurance-Other-Benefit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Human Resources Benefit-Wizard">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Deleting-a-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Benefit-Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/References/Supplemental-Information-for-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Running-the-Benefit-Wizard-for-Hours-Accrual.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Running-the-Benefit-Wizard-for-Hours-Usage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Running-the-Benefit-Wizard-for-Insurance-Other-Benefits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Documentation/WinTeam/Human-Resources/References/Security-Confirmation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Human Resources Benefit-Wizard">
+    Title="Human Resources Sick Leave">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Deleting-a-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/Arizona-Paid-Sick-Leave.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Benefit-Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Supplemental-Information-for-Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Running-the-Benefit-Wizard-for-Hours-Accrual.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Running-the-Benefit-Wizard-for-Hours-Usage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Running-the-Benefit-Wizard-for-Insurance-Other-Benefits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Security-Confirmation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources Cash-Outs">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Cash-Outs-Update.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Cashing-Out-Benefits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources Compliance">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Tracking-by-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Tracking-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Compliance-Tracking-Group-Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Compliance-Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Group-Type-Descriptions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Employee-Compliance-Tracker-Quick-Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/License-Status.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Performed-By.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Alert-Review.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Compliance-Tracking-by-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Compliance-Tracking-History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Scheduling-Response-Level.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Setting-Up-Compliance-Tracking-Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Updating-Employee-Compliance-Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Using-the-Compliance-Alert-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Basics/Tasks/Setting-Up-the-Email-Sender-and-Compliance-Alert-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources General Setup">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/System-Setup/Overview/Alert-Schedules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/New-York-Dependent-Health-Insurance-Benefit-Reporting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Human-Resources-Custom-Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Rehire-Eligibility.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Human-Resources-Security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources Equipment-Tracking">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Assigning-Equipment-to-an-Employee.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Equipment-Tracker.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Including-Equipment-Tracker-Items-when-Updating-Inventory.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources ID-Badges">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Employee-ID-Badges.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Employee-ID-Badge-Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources Overview">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Human-Resources-Main.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Human-Resources-Topics-Summary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Documentation/WinTeam/Human-Resources/References/California-Paid-Sick-Leave.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Human Resources Reports">
@@ -298,26 +297,5 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Documentation/WinTeam/Human-Resources/Reports/Human-Resources-Reports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources Sick Leave">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Arizona-Paid-Sick-Leave.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/California-Paid-Sick-Leave.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="Human Resources Workforce-Analysis">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Overview/Workforce-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/References/Workforce-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Documentation/WinTeam/Human-Resources/Tasks/Using-Workforce-Analysis.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>
