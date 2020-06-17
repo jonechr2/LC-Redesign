@@ -23,17 +23,13 @@
             background-color: #047fb8;
             height: 2vh;
             margin-bottom: 0;}
+			
         .menubar {
             display: flex;
             width: 30%;
             text-transform: uppercase;
         }
         
-        .main { 
-            width: 80%;
-            margin-left: 10%;
-            margin-top: 15vh;
-        }
         
        
         .newButton {
@@ -49,11 +45,11 @@
             text-align: center;
             margin-top: 10px;
         }
-        .guideButton {
-            float: left;
-            margin-top: 10px;
-            display: flex;
+       
+		.newButton p {
+            line-height: 1.2;
         }
+		
         .faq {
             text-align: center;
             margin: auto;
@@ -78,29 +74,49 @@
             display: flex;
             justify-content: space-between;
             padding-inline-start: 0;
-            width: 80%;
             margin: auto;
         }
         .tabButton {
-            background-color: #047fb8;
             list-style: none;
-            padding: 15px 50px;
-            border-radius: 10px 10px 0 0;  
+            border-right: 1px solid;
+            width: 20vw;
+            height: 8vh;
+            text-align: center;
+            padding-top: 15px;
+        }
+ 
+        .tabButton:hover {
+            opacity: .5;
+        }
+        .tabButton:active {
+            background-color: #047fb8;
         }
         
-        .tabButton a {
-            color: white;
+        .tabButton:last-of-type {
+            border: none;
+        }
+        
+        li.tabButton a {
+            color: gray;
             font-size: 18px;
             font-family: sans-serif;
             text-decoration: none;
+            font-weight: 700;
+            display: flex;
+            justify-content: space-evenly;
+            width: 80%;
+            margin: auto;
+        }
+        
+        li.tabButton img {
+            height: 6vh;
         }
         
         .ui-tabs-panel {
-            background-color: white; 
-            padding: 0px 15px;
-   
-            border: 5px solid #047fb8;     
-            border-radius: 10px;
+            background-color: white;
+            padding: 0 30px 30px 30px;
+            border-top: 10px solid #047fb8;
+            box-shadow: #eee 0px 8px 16px 9px;
         }
         .ui-accordion-header {
             padding: 20px;
@@ -108,16 +124,22 @@
             border-bottom: 5px solid #047fb8;
             cursor: pointer;
             box-shadow: #ababab 6px 5px 10px 0px;
+			margin-bottom: 0;
         }
         
-        .ui-accordion-header h3:before {
+         .accordion > h3:before {
+            content:"\f067";
+            font-family: FontAwesome;
+            padding-right: 15px;
+            color: #1ad1c2;
+        }
+        .accordion > h3.ui-state-active:before {
             font-family: FontAwesome;
             content:"\f068";
-            padding-right: 5px;
+            padding-right: 15px;
+            color: #1ad1c2;
         }
-        .ui-accordion-header h3.collapsed:before {
-            content:"\f067";
-        }
+		
         .ui-accordion-content {
             background: white;
             height: auto!important;
@@ -127,8 +149,12 @@
             color: gray;
             line-height: 1.5;
         }
-        .accordion li {line-height: 2;}
-        
+		
+		.accordion li {
+			line-height: 2;
+			text-decoration: none;
+			}
+			
         .topics {
             display: flex;
             flex-wrap: wrap;
@@ -136,13 +162,14 @@
             padding-bottom: 20px;
             padding-top: 20px;
             margin: auto;
-            width: 80%;
 
         }
         
         .subtopic {
             min-width: 30%;
+			max-width: 30%;
             padding-bottom: 20px;
+			padding-right: 30px;
         }
 
  /*Resource Type*/      
@@ -177,15 +204,31 @@ font-family: 'FontAwesome';
             color: #68B842;
         }
         
+		.guide {
+            height: 50px;
+            width: 300px;
+            background: #68b842;
+            border-radius: 0 0 10px 10px;
+            box-shadow: #ababab 6px 5px 10px 0px;
+        }
+        .guideButton {
+            float: left;
+            margin-top: 10px;
+            display: flex;
+            padding-left: 10%;
+        }
+        
         .guideButton:before {
              content: '\f02d';
             font-family: 'FontAwesome';
             padding-right: 15px;
-            color: #68B842;
+            color: white;
             font-size: 24px;
+            line-height: 1;
         }
-        .guideButton p {margin: 0;}
-        
+		
+        .guideButton p {margin: 0; color: white;}
+		
         .bookings {
             background-color: #68B842;
             border-radius: 10px 0 0 10px;
@@ -201,6 +244,7 @@ font-family: 'FontAwesome';
             text-transform: uppercase;
             width: 50px;
             height: 100px;
+			line-height: 1.5;
         }
         
 
